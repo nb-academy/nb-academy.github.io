@@ -40,6 +40,10 @@ img {
     color: var(--color-brand);
 }
 
+.text-p {
+    color: #929292;
+}
+
 .text-star {
     color: var(--color-brand);
     text-align: center;
