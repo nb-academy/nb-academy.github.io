@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
 
 :root {
-    --color-body: #818181;
-    --color-heading: #ffffff;
-    --color-base: #192734;
-    --color-base2: #15202B;
-    --color-brand: #3E7BFA;
-    --color-brand2: #e8f0fe;
+    --color-body: #9090a7;
+    --color-heading: #ebeaef;
+    --color-base: #28293d;
+    --color-base2: #1c1c27;
+    --color-brand: #3568d4;
+    --color-brand2: #ffcc00;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
@@ -106,7 +106,6 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(90deg, rgba(23,26,35,1) 0%, rgba(21,32,43,1) 100%), url(../images/sidebar-img.jpg);
         background-size: cover;
         background-position: center;
     }
